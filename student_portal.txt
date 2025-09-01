@@ -1,0 +1,5 @@
+Name = Menda Somi Naidu
+Roll no = 38
+Course = BSc
+Section = "B"
+SUC NO = 2352320362
